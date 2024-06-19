@@ -40,6 +40,14 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+##Tealfeed Assignment - Code Editor
+
+The Tealfeed Assignment project aims to develop a simple yet effective code editor using React. Inspired by the functionality of libraries like Prism JS, the project leverages technologies such as Prism JS for syntax highlighting and the Textarea HTML element to create a seamless coding experience. By integrating these technologies, users can enjoy syntax highlighting while typing code within the editor. This implementation provides a user-friendly interface similar to popular code editors, enhancing the developer's productivity. Check out the screenshot below to visualize the sleek interface of the code editor:
+
+![image](https://github.com/ps0821/Tealfeed-Assignment/assets/150889187/d5234047-9a38-4cba-a027-14c03044bb0a)
+
+
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
