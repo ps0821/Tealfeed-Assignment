@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tealfeed-Assignment/static/css/main.6aa8715c.css",
+    "main.js": "/Tealfeed-Assignment/static/js/main.9b13e0ef.js",
+    "static/js/453.598de340.chunk.js": "/Tealfeed-Assignment/static/js/453.598de340.chunk.js",
+    "index.html": "/Tealfeed-Assignment/index.html",
+    "main.6aa8715c.css.map": "/Tealfeed-Assignment/static/css/main.6aa8715c.css.map",
+    "main.9b13e0ef.js.map": "/Tealfeed-Assignment/static/js/main.9b13e0ef.js.map",
+    "453.598de340.chunk.js.map": "/Tealfeed-Assignment/static/js/453.598de340.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6aa8715c.css",
+    "static/js/main.9b13e0ef.js"
+  ]
+}
