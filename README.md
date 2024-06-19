@@ -48,11 +48,7 @@ The Tealfeed Assignment project aims to develop a simple yet effective code edit
 
 ![image](https://github.com/ps0821/Tealfeed-Assignment/assets/150889187/b413f5a5-764e-47f3-b3d4-5b77abc389a8)
 
-![image](https://github.com/ps0821/Tealfeed-Assignment/assets/150889187/b461b538-ccec-4ebe-8e02-29bad7265f24)
-
-![image](https://github.com/ps0821/Tealfeed-Assignment/assets/150889187/f35955e1-b983-4afa-840a-7262190b5a5e)
-
-![image](https://github.com/ps0821/Tealfeed-Assignment/assets/150889187/5217136a-030f-4790-8689-c2068b474151)
+![image](https://github.com/ps0821/Tealfeed-Assignment/assets/150889187/3de866ef-71ca-4a1d-954d-c54df007c2ec)
 
 Experience the convenience and efficiency of the Tealfeed Assignment Code Editor for your coding needs.
 
