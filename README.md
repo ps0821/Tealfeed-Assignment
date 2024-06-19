@@ -40,7 +40,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-**Tealfeed Assignment - Code Editor**
+<h1><b>Tealfeed Assignment - Code Editor</b></h1>
 
 The Tealfeed Assignment project aims to develop a simple yet effective code editor using React. Inspired by the functionality of libraries like Prism JS, the project leverages technologies such as Prism JS for syntax highlighting and the Textarea HTML element to create a seamless coding experience. By integrating these technologies, users can enjoy syntax highlighting while typing code within the editor. This implementation provides a user-friendly interface similar to popular code editors, enhancing the developer's productivity. Check out the screenshot below to visualize the sleek interface of the code editor:
 
@@ -51,6 +51,8 @@ The Tealfeed Assignment project aims to develop a simple yet effective code edit
 ![image](https://github.com/ps0821/Tealfeed-Assignment/assets/150889187/b461b538-ccec-4ebe-8e02-29bad7265f24)
 
 ![image](https://github.com/ps0821/Tealfeed-Assignment/assets/150889187/f35955e1-b983-4afa-840a-7262190b5a5e)
+
+![image](https://github.com/ps0821/Tealfeed-Assignment/assets/150889187/5217136a-030f-4790-8689-c2068b474151)
 
 Experience the convenience and efficiency of the Tealfeed Assignment Code Editor for your coding needs.
 
